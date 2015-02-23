@@ -335,7 +335,9 @@ Además, los programas integrados en psicología desarrollados por un único 
 
         <div class="col-sm-12 text-center">
           <h4>Programa de Doctorado - Facultad de psicología</h4>
-          <p>UNIVERSIDAD DE SEVILLA</p>  
+          <p>
+            <img src="{{ url('img/logofooter.png') }}"/><br/>
+            UNIVERSIDAD DE SEVILLA</p>  
           <hr>    
           <p>C/ CAMILO JOSÉ CELA, S/N C.P: 41018 (SEVILLA) Teléfono: 95.455.76.60. FAX: 95.455.76.59/5.76</p>
         </div> <!-- /.col -->
