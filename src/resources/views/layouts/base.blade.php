@@ -114,13 +114,9 @@
             </a>
 
             <ul class="dropdown-menu">
-              <li><a href="{{ url('page-profile.html') }}"><i class="fa fa-user nav-icon"></i> Profile</a></li>
-              <li><a href="{{ url('page-invoice.html') }}"><i class="fa fa-money nav-icon"></i> Invoice</a></li>
-              <li><a href="{{ url('page-pricing.html') }}"><i class="fa fa-dollar nav-icon"></i> Pricing Plans</a></li>
-              <li><a href="{{ url('page-support.html') }}"><i class="fa fa-question nav-icon"></i> Support Page</a></li>
-              <li><a href="{{ url('page-gallery.html') }}"><i class="fa fa-picture-o nav-icon"></i> Gallery</a></li>
-              <li><a href="{{ url('page-settings.html') }}"><i class="fa fa-cogs nav-icon"></i> Settings</a></li>
-              <li><a href="{{ url('page-calendar.html') }}"><i class="fa fa-calendar nav-icon"></i> Calendar</a></li>
+              <li><a href="{{ url('') }}"><i class="fa fa-angle-right nav-icon"></i> Presentación del título</a></li>
+              <li><a href="{{ url('') }}"><i class="fa fa-angle-right nav-icon"></i> Datos del título</a></li>
+              <li><a href="{{ url('') }}"><i class="fa fa-angle-right nav-icon"></i> Competencias</a></li>
             </ul>
           </li> 
 
