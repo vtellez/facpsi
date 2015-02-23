@@ -224,19 +224,19 @@
               <ul class="icons-list">
                 <li>
                   <i class="icon-li fa fa-angle-right"></i>
-                  Antecedentes y descripción
+                  <a href="{{ url('') }}">Antecedentes y descripción</a>
                 </li>
                 <li>
                   <i class="icon-li fa fa-angle-right"></i>
-                  Composición de la Comisión Académica
+                  <a href="{{ url('') }}">Composición de la Comisión Académica</a>
                 </li>
                 <li>
                   <i class="icon-li fa fa-angle-right"></i>
-                  Datos Coordinador/a del programa
+                  <a href="{{ url('') }}">Datos Coordinador/a del programa</a>
                 </li>
                 <li>
                   <i class="icon-li fa fa-angle-right"></i>
-                  Datos del Servicio de Doctorado
+                  <a href="{{ url('') }}">Datos del Servicio de Doctorado</a>
                 </li>
               </ul>
           
