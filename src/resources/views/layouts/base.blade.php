@@ -58,32 +58,16 @@
             <ul class="dropdown-menu" role="menu">
 
               <li>
-                <a href="{{ url('page-profile.html') }}">
-                  <i class="fa fa-user"></i> 
-                  &nbsp;&nbsp;My Profile
+                <a href="{{ url('') }}">
+                  <i class="fa fa-flag"></i> 
+                  &nbsp;&nbsp;Español
                 </a>
               </li>
 
               <li>
-                <a href="{{ url('page-pricing.html') }}">
-                  <i class="fa fa-dollar"></i> 
-                  &nbsp;&nbsp;Plans &amp; Billing
-                </a>
-              </li>
-
-              <li>
-                <a href="{{ url('page-settings.html') }}">
-                  <i class="fa fa-cogs"></i> 
-                  &nbsp;&nbsp;Settings
-                </a>
-              </li>
-
-              <li class="divider"></li>
-
-              <li>
-                <a href="{{ url('account-login.html') }}">
-                  <i class="fa fa-sign-out"></i> 
-                  &nbsp;&nbsp;Logout
+                <a href="{{ url('') }}">
+                  <i class="fa fa-flag"></i> 
+                  &nbsp;&nbsp;English
                 </a>
               </li>
 
@@ -92,45 +76,9 @@
           </li>  
 
           <li class="dropdown navbar-profile">
-            <a class="dropdown-toggle" data-toggle="dropdown" style="cursor:pointer;">
+            <a href="{{ url('') }}">
               Iniciar sesión
-              <i class="fa fa-caret-down"></i>
             </a>
-
-            <ul class="dropdown-menu" role="menu">
-
-              <li>
-                <a href="{{ url('page-profile.html') }}">
-                  <i class="fa fa-user"></i> 
-                  &nbsp;&nbsp;My Profile
-                </a>
-              </li>
-
-              <li>
-                <a href="{{ url('page-pricing.html') }}">
-                  <i class="fa fa-dollar"></i> 
-                  &nbsp;&nbsp;Plans &amp; Billing
-                </a>
-              </li>
-
-              <li>
-                <a href="{{ url('page-settings.html') }}">
-                  <i class="fa fa-cogs"></i> 
-                  &nbsp;&nbsp;Settings
-                </a>
-              </li>
-
-              <li class="divider"></li>
-
-              <li>
-                <a href="{{ url('account-login.html') }}">
-                  <i class="fa fa-sign-out"></i> 
-                  &nbsp;&nbsp;Logout
-                </a>
-              </li>
-
-            </ul>
-
           </li>
 
         </ul>
