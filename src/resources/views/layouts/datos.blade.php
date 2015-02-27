@@ -84,25 +84,90 @@ Datos del título
     <p class="lead">&nbsp;</p>
     <p>ISCED 1: Psicología</p>
     <p>ISCED 2: Psicología</p>
+
+
     @elseif ( $step == 5 )
-    Escuela Internacional de Doctorado de la Universidad de Sevilla
+    <h2>Centros en los que se imparte</h2>
+    <p clas="lead">&nbsp;</p>
+    <p><a href="http://www.doctorado.us.es">Escuela Internacional de Doctorado de la Universidad de Sevilla</a></p>
+
+
     @elseif ( $step == 6 )
+    <h2>Duración del programa</h2>
+    <p clas="lead">&nbsp;</p>
+
+    <p>
     El PD en Psicología por la US contempla la admisión de estudiantes a tiempo completo TC y a tiempo parcial (TP). La duración de los estudios de doctorado es, por tanto:
+    </p>
+    <p>
     TC (3 años + 2 prórrogas de 1 año)
+    </p>
+    <p>
     TP (5 años + 1 prórroga de 2 años + 1 prórroga de 1 año)
+    </p>
+
+
     @elseif ( $step == 7 )
-    www.doctorado.us.es/impresos/verificacion/NORMAS%20DE%20PERMANE NCIA_web.pdf
+    <h2>Normas de permanencia</h2>
+    <p clas="lead">&nbsp;</p>
+    
+    <p>
+    <a href="www.doctorado.us.es/impresos/verificacion/NORMAS%20DE%20PERMANE NCIA_web.pdf">www.doctorado.us.es/impresos/verificacion/NORMAS%20DE%20PERMANE NCIA_web.pdf</a>
+    </p>
+
+
     @elseif ( $step == 8 )
+    <h2>Lenguas</h2>
+    <p clas="lead">&nbsp;</p>
+    
+    <p>
     Castellano e inglés.
+    </p>
+
     @elseif ( $step == 9 )
+    <h2>Plazas de nuevo ingreso</h2>
+    <p clas="lead">&nbsp;</p>
+    
+    <p>
     No de plazas de nuevo ingreso ofertadas por curso académico
-    Curso 2013-1014: 40 plazas (16 TC y 24 TP) Curso 2014-2015: 40 plazas (16TC y 24 TP)
+    </p>
+    <br>
+    <p>
+    <h4>Curso 2013-1014</h4>40 plazas (16 TC y 24 TP) 
+    </p>
+    <br>
+
+    <p>
+    <h4>Curso 2014-2015</h4> 40 plazas (16TC y 24 TP)
+    </p>
+
+
     @elseif ( $step == 10 )
+    <h2>Alumnos matriculados</h2>
+    <p clas="lead">&nbsp;</p>
+    
+    <p>
     No de alumnos de nuevo ingreso matriculados por curso académico
-    Curso 2013-1014: 38 estudiantes matriculados/as
-    Curso 2014-2015: 27 estudiantes matriculados/as en el primer plazo. 6 estudiantes admitidos/as en el segundo plazo. Pendientes de matriculación
+    </p>
+    <br>
+    <p>
+    <h4>Curso 2013-1014</h4> 38 estudiantes matriculados/as
+    </p>
+    <br>
+    <p>
+    <h4>Curso 2014-2015</h4> 
+    27 estudiantes matriculados/as en el primer plazo. <br>
+    6 estudiantes admitidos/as en el segundo plazo. <br>Pendientes de matriculación
+    </p>
+
+
     @else
+    <h2>Colaboraciones</h2>
+    <p clas="lead">&nbsp;</p>
+    
+    <p>
     Incluir documento “Convenios PD”
+    </p>
     @endif
   </div> <!-- /.col -->
 
