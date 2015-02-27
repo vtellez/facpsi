@@ -15,7 +15,7 @@ Route::get('/{section?}', array( function ($section = 'presentacion') {
 	if( View::exists('layouts.'.$section) ){
 		return View::make('layouts.'.$section, array('section' => $section) );
 	} else {
- 		 return View::make('layouts.presentacion', array('section' => 'presentacion') );
+ 		 return View::make('layouts.presentacion', array('section' => $section) );
 	}
 }));
 
