@@ -12,10 +12,15 @@
 */
 
 Route::get('/{section?}', array( function ($section = 'presentacion') { 
+
+	$step = Input::get('s');
+	if ( !$step )
+		$step = 1;
+
 	if( View::exists('layouts.'.$section) ){
-		return View::make('layouts.'.$section, array('section' => $section) );
+		return View::make('layouts.'.$section, array('section' => $section, 'step' => $step) );
 	} else {
- 		 return View::make('layouts.presentacion', array('section' => $section) );
+ 		 return View::make('layouts.presentacion', array('section' => $section, 'step' => $step) );
 	}
 }));
 

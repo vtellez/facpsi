@@ -4,7 +4,7 @@
 <!--[if IE 8]>         <html class="no-js lt-ie9"> <![endif]-->
 <!--[if gt IE 8]><!--> <html class="no-js"> <!--<![endif]-->
 <head>
-  <title>Programa de Doctorado - FACPSI</title>
+  <title>Programa de Doctorado - @yield('title')</title>
 
   <meta charset="utf-8">
   <meta name="description" content="">
@@ -48,7 +48,7 @@
       <div class="navbar-collapse collapse">
 
         <ul class="nav navbar-nav navbar-right">   
-          
+
           <li class="dropdown navbar-profile">
             <a class="dropdown-toggle" data-toggle="dropdown" style="cursor:pointer;">
               Idioma
@@ -107,157 +107,163 @@
 
         <ul class="nav navbar-nav mainbar-nav">
 
-        @if ( $section == '' || $section == 'presentacion')
+          @if ( $section == '' || $section == 'presentacion' || $section == 'datos' || $section == 'compentencias')
           <li class="dropdown active">
-        @else
-          <li>
-        @endif
-            <a style="cursor:pointer;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
-              <i class="fa fa-info-circle"></i>
-              Presentación
-            </a>
+            @else
+            <li>
+              @endif
+              <a style="cursor:pointer;" class="dropdown-toggle" data-toggle="dropdown" data-hover="dropdown">
+                <i class="fa fa-info-circle"></i>
+                Presentación
+              </a>
 
-            <ul class="dropdown-menu">
-              <li><a href="{{ url('presentacion?s=1') }}"><i class="fa fa-angle-right nav-icon"></i> Presentación del título</a></li>
-              <li><a href="{{ url('presentacion?s=2') }}"><i class="fa fa-angle-right nav-icon"></i> Datos del título</a></li>
-              <li><a href="{{ url('presentacion?s=3') }}"><i class="fa fa-angle-right nav-icon"></i> Competencias</a></li>
-            </ul>
-          </li> 
+              <ul class="dropdown-menu">
+                <li><a href="{{ url('presentacion') }}"><i class="fa fa-angle-right nav-icon"></i> Presentación del título</a></li>
+                <li><a href="{{ url('datos') }}"><i class="fa fa-angle-right nav-icon"></i> Datos del título</a></li>
+                <li><a href="{{ url('competencias') }}"><i class="fa fa-angle-right nav-icon"></i> Competencias</a></li>
+              </ul>
+            </li> 
 
-        @if ( $section == 'investigacion' )
-          <li class="dropdown active">
-        @else
-          <li>
-        @endif
-            <a href="{{ url('investigacion') }}">
-              <i class="fa fa-flask"></i>
-              Investigación
-            </a>
-          </li> 
+            @if ( $section == 'investigacion' )
+            <li class="dropdown active">
+              @else
+              <li>
+                @endif
+                <a href="{{ url('investigacion') }}">
+                  <i class="fa fa-flask"></i>
+                  Investigación
+                </a>
+              </li> 
 
-        @if ( $section == 'acceso' )
-          <li class="dropdown active">
-        @else
-          <li>
-        @endif
-            <a href="{{ url('acceso') }}">
-              <i class="fa fa-sign-in"></i>
-              Acceso
-            </a>
-          </li> 
+              @if ( $section == 'acceso' )
+              <li class="dropdown active">
+                @else
+                <li>
+                  @endif
+                  <a href="{{ url('acceso') }}">
+                    <i class="fa fa-sign-in"></i>
+                    Acceso
+                  </a>
+                </li> 
 
-        @if ( $section == 'matricula' )
-          <li class="dropdown active">
-        @else
-          <li>
-        @endif
-            <a href="{{ url('matricula') }}">
-              <i class="fa fa-laptop"></i>
-              Matrícula
-            </a>
-          </li> 
-          
-        @if ( $section == 'formacion' )
-          <li class="dropdown active">
-        @else
-          <li>
-        @endif
-            <a href="{{ url('formacion') }}">
-              <i class="fa fa-book"></i>
-              Formación
-            </a>
-          </li> 
-          
-        @if ( $section == 'tesis' )
-          <li class="dropdown active">
-        @else
-          <li>
-        @endif
-            <a href="{{ url('tesis') }}">
-              <i class="fa fa-graduation-cap"></i>
-              Tesis doctoral
-            </a>
-          </li> 
-          
-        @if ( $section == 'becas' )
-          <li class="dropdown active">
-        @else
-          <li>
-        @endif
-            <a href="{{ url('becas') }}">
-              <i class="fa fa-thumb-tack"></i>
-              Becas y ayudas
-            </a>
-          </li> 
-          
-        @if ( $section == 'internacional' )
-          <li class="dropdown active">
-        @else
-          <li>
-        @endif
-            <a href="{{ url('internacional') }}">
-              <i class="fa fa-globe"></i>
-              Internacional
-            </a>
-          </li> 
-          
-        @if ( $section == 'resultados' )
-          <li class="dropdown active">
-        @else
-          <li>
-        @endif
-            <a href="{{ url('resultados') }}">
-              <i class="fa fa-flag"></i>
-              Resultados
-            </a>
-          </li> 
+                @if ( $section == 'matricula' )
+                <li class="dropdown active">
+                  @else
+                  <li>
+                    @endif
+                    <a href="{{ url('matricula') }}">
+                      <i class="fa fa-laptop"></i>
+                      Matrícula
+                    </a>
+                  </li> 
 
-        </ul>
+                  @if ( $section == 'formacion' )
+                  <li class="dropdown active">
+                    @else
+                    <li>
+                      @endif
+                      <a href="{{ url('formacion') }}">
+                        <i class="fa fa-book"></i>
+                        Formación
+                      </a>
+                    </li> 
 
-      </div> <!-- /.navbar-collapse -->   
+                    @if ( $section == 'tesis' )
+                    <li class="dropdown active">
+                      @else
+                      <li>
+                        @endif
+                        <a href="{{ url('tesis') }}">
+                          <i class="fa fa-graduation-cap"></i>
+                          Tesis doctoral
+                        </a>
+                      </li> 
 
-    </div> <!-- /.container --> 
+                      @if ( $section == 'recursos' )
+                      <li class="dropdown active">
+                        @else
+                        <li>
+                          @endif
+                          <a href="{{ url('recursos') }}">
+                            <i class="fa fa-cloud"></i>
+                            Recursos
+                          </a>
+                        </li> 
 
-  </div> <!-- /.mainbar -->
+                        @if ( $section == 'internacional' )
+                        <li class="dropdown active">
+                          @else
+                          <li>
+                            @endif
+                            <a href="{{ url('internacional') }}">
+                              <i class="fa fa-globe"></i>
+                              Internacional
+                            </a>
+                          </li> 
 
+                          @if ( $section == 'resultados' )
+                          <li class="dropdown active">
+                            @else
+                            <li>
+                              @endif
+                              <a href="{{ url('resultados') }}">
+                                <i class="fa fa-flag"></i>
+                                Resultados
+                              </a>
+                            </li> 
 
-  <div class="container">
+                          </ul>
 
-    <div class="content">
+                        </div> <!-- /.navbar-collapse -->   
 
-      <div class="content-container">
-      @yield('content')
-      </div> <!-- /.content-container -->
-      
-    </div> <!-- /.content -->
+                      </div> <!-- /.container --> 
 
-  </div> <!-- /.container -->
+                    </div> <!-- /.mainbar -->
 
 
-  <footer class="footer">
+                    <div class="container">
 
-    <div class="container">
+                      <div class="content">
 
-      <div class="row">
+                        <div class="content-container">
 
-        <div class="col-sm-12 text-center">
-          <p>
-            <img src="{{ url('img/logofooter.png') }}"/><br/>
-            UNIVERSIDAD DE SEVILLA</p>  
-          <h4>Programa de Doctorado - Facultad de psicología</h4>
-          <hr>    
-          <p>C/ CAMILO JOSÉ CELA, S/N C.P: 41018 (SEVILLA) Teléfono: 95.455.76.60. FAX: 95.455.76.59/5.76</p>
-        </div> <!-- /.col -->
+                         <div class="content-header">
+                          <h2 class="content-header-title">@yield('header')</h2>
+                        </div> <!-- /.content-header -->
 
-        </div> <!-- /.row -->
+                        @yield('content')
 
-      </div> <!-- /.container -->
-      
-    </footer>
+                      </div> <!-- /.content-container -->
 
-    <script src="{{ url('js/libs/jquery-1.10.1.min.js') }}"></script>
-    <script src="{{ url('js/libs/jquery-ui-1.9.2.custom.min.js') }}"></script>
-    <script src="{{ url('js/libs/bootstrap.min.js') }}"></script>
+                    </div> <!-- /.content -->
+
+                  </div> <!-- /.container -->
+
+
+                  <footer class="footer">
+
+                    <div class="container">
+
+                      <div class="row">
+
+                        <div class="col-sm-12 text-center">
+                          <p>
+                            <img src="{{ url('img/logofooter.png') }}"/><br/>
+                            UNIVERSIDAD DE SEVILLA</p>  
+                            <h4>Programa de Doctorado - Facultad de psicología</h4>
+                            <hr>    
+                            <p>C/ CAMILO JOSÉ CELA, S/N C.P: 41018 (SEVILLA) Teléfono: 95.455.76.60. FAX: 95.455.76.59/5.76</p>
+                          </div> <!-- /.col -->
+
+                        </div> <!-- /.row -->
+
+                      </div> <!-- /.container -->
+
+                    </footer>
+
+                    <script src="{{ url('js/libs/jquery-1.10.1.min.js') }}"></script>
+                    <script src="{{ url('js/libs/jquery-ui-1.9.2.custom.min.js') }}"></script>
+                    <script src="{{ url('js/libs/bootstrap.min.js') }}"></script>
   <!--[if lt IE 9]>
   <script src="{{ url('js/libs/excanvas.compiled.js') }}"></script>
   <![endif]-->
