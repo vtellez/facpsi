@@ -11,15 +11,11 @@
 |
 */
 
-Route::get('/', array( function () { 
-  return View::make('layouts.base');
-}));
-
-Route::get('/{section}', array( function ($section = 'presentacion') { 
+Route::get('/{section?}', array( function ($section = 'presentacion') { 
 	if( View::exists('layouts.'.$section) ){
 		return View::make('layouts.'.$section, array('section' => $section) );
 	} else {
- 		 return View::make('layouts.presentacion', array('section' => $section) );
+ 		 return View::make('layouts.presentacion', array('section' => 'presentacion') );
 	}
 }));
 
