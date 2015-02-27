@@ -11,23 +11,19 @@
 |
 */
 
-//Landing
-Route::get('landing/{section?}', array(function($section = 'home'){
-  if($section == 'join' && Auth::check()) {
-    return Redirect::to('/');
-  } else {
-    return View::make('land.base', array('section' => $section, 'lang' => Cookie::get('language')));
-  }
-}));
-
-
 Route::get('/', array( function () { 
   return View::make('layouts.base');
 }));
 
+Route::get('/{section}', array( function ($section = 'presentacion') { 
+	if( View::exists('layouts.'.$section) ){
+		return View::make('layouts.'.$section, array('section' => $section) );
+	} else {
+ 		 return View::make('layouts.presentacion', array('section' => $section) );
+	}
+}));
 
 
-// Route::get('/', 'WelcomeController@index');
 Route::get('home', 'HomeController@index');
 Route::controllers([
 	'auth' => 'Auth\AuthController',
