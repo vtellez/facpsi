@@ -30,11 +30,7 @@ Datos del título
           </li>
           <li>
             <i class="icon-li fa fa-angle-right"></i>
-            <a href="{{ url('datos?s=3') }}">Códigos ISCED 1 y ISCED 2</a>
-          </li>
-          <li>
-            <i class="icon-li fa fa-angle-right"></i>
-            <a href="{{ url('datos?s=4') }}">Datos del Servicio de Doctorado</a>
+            <a href="{{ url('datos?s=4') }}">Códigos ISCED 1 y ISCED 2</a>
           </li>
           <li>
             <i class="icon-li fa fa-angle-right"></i>
@@ -70,33 +66,41 @@ Datos del título
   </div> <!-- /.col -->
   <div class="col-md-9 col-sm-8">
     @if ( $step == 1 )
-Doctorado
-Denominación del título
-Programa de Doctorado en Psicología por la Universidad de Sevilla
-    @elseif ( $step == 2 )
-    Programa de doctorado en Psicología por la Universidad de Sevilla (RD 99/2011)
+    <h2>Nivel</h2>
+    <p class="lead">&nbsp;</p>
+    <p>Doctorado</p>
+    <br><br>
+    <p class="lead">Denominación del título</p>
+    <p>Programa de Doctorado en Psicología por la Universidad de Sevilla</p>
 
-    @elseif ( $step == 3 )
-    Programa de Doctorado en Psicología por la Universidad de Sevilla
+
+    @elseif ( $step == 2 )
+    <h2>Real decreto</h2>
+    <p class="lead">&nbsp;</p>
+    <p>Programa de doctorado en Psicología por la Universidad de Sevilla (RD 99/2011)</p>
+
     @elseif ( $step == 4 )
-    ISCED 1: Psicología. ISCED 2: Psicología
+    <h2>Códigos ISCED 1 y ISCED 2</h2>
+    <p class="lead">&nbsp;</p>
+    <p>ISCED 1: Psicología</p>
+    <p>ISCED 2: Psicología</p>
     @elseif ( $step == 5 )
     Escuela Internacional de Doctorado de la Universidad de Sevilla
     @elseif ( $step == 6 )
     El PD en Psicología por la US contempla la admisión de estudiantes a tiempo completo TC y a tiempo parcial (TP). La duración de los estudios de doctorado es, por tanto:
     TC (3 años + 2 prórrogas de 1 año)
-TP (5 años + 1 prórroga de 2 años + 1 prórroga de 1 año)
+    TP (5 años + 1 prórroga de 2 años + 1 prórroga de 1 año)
     @elseif ( $step == 7 )
     www.doctorado.us.es/impresos/verificacion/NORMAS%20DE%20PERMANE NCIA_web.pdf
     @elseif ( $step == 8 )
     Castellano e inglés.
     @elseif ( $step == 9 )
     No de plazas de nuevo ingreso ofertadas por curso académico
-Curso 2013-1014: 40 plazas (16 TC y 24 TP) Curso 2014-2015: 40 plazas (16TC y 24 TP)
+    Curso 2013-1014: 40 plazas (16 TC y 24 TP) Curso 2014-2015: 40 plazas (16TC y 24 TP)
     @elseif ( $step == 10 )
     No de alumnos de nuevo ingreso matriculados por curso académico
-Curso 2013-1014: 38 estudiantes matriculados/as
-Curso 2014-2015: 27 estudiantes matriculados/as en el primer plazo. 6 estudiantes admitidos/as en el segundo plazo. Pendientes de matriculación
+    Curso 2013-1014: 38 estudiantes matriculados/as
+    Curso 2014-2015: 27 estudiantes matriculados/as en el primer plazo. 6 estudiantes admitidos/as en el segundo plazo. Pendientes de matriculación
     @else
     Incluir documento “Convenios PD”
     @endif
