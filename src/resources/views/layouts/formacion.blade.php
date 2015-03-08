@@ -210,29 +210,79 @@ Actividades formativas
 
 	@elseif ( $step == 2 )
 	<h3>Secuencia de actividades a realizar por los doctorandos</h3><br/>
-	Estrategia general del programa formativo.
+	<p>
+		<h4>Estrategia general del programa formativo</h4>
+	</p>
+	<p>
 	Cada línea de investigación deberá programar un mínimo de tres actividades del tipo seminarios o conferencias por curso.
+	</p>
+	<p>
 	La temporalización recomendada de las actividades formativas será:
-	i. Primer curso: 50 horas ii. Segundo curso: 30horas
-	iii. Tercer curso: 20 horas.
-	Pauta de trabajo para el/la estudiante a lo largo del programa formativo
+	<ol type="i">
+		<li>
+			Primer curso: 50 horas
+		</li>
+		<li>
+			Segundo curso: 30horas
+		</li>
+		<li>
+			Tercer curso: 20 horas.
+		</li>
+	</ol>
+	</p>
+	<br>
+	<p>
+		<h4>Pauta de trabajo para el/la estudiante a lo largo del programa formativo</h4>
+	</p>
+	<p>
 	Los/as estudiantes de tercer curso actuarán como tutores metodológicos de los estudiantes de primer y segundo curso, orientándolos en tareas metodológicas y formativas dentro de cada línea de investigación. A lo largo de su segundo o tercer año deberán haber organizado algunos de los seminarios metodológicos en el punto anterior, centrado en la metodología en la que desarrollen su tesis doctoral.
-	Todos los estudiantes deberán seguir un programa de presentación de los avances de su investigación en reuniones semestrales (dos por curso, una al semestre) en la que expondrán mediante un formato de seminario y/o de caso los avances realizados en el último periodo semestrales en: a) depuración de la metodología, b) análisis de datos, c) discusión teórica y tareas conceptuales. Estas sesiones serán coordinadas por los responsables de línea y en ellas estarán presentes los estudiantes adscritos a la línea y los directores y codirectores.
+	</p>
+	<p>
+	Todos los estudiantes deberán seguir un programa de presentación de los avances de su investigación en reuniones semestrales (dos por curso, una al semestre) en la que expondrán mediante un formato de seminario y/o de caso los avances realizados en el último periodo semestrales en: 
+	</p>
+	<ol type="a">
+		<li>Depuración de la metodología</li>
+		<li>Análisis de datos</li>
+		<li>Discusión teórica y tareas conceptuales.</li>
+	</ol>
+	<p>
+	Estas sesiones serán coordinadas por los responsables de línea y en ellas estarán presentes los estudiantes adscritos a la línea y los directores y codirectores.
+	</p>
+	<p>
 	Los estudiantes podrán solicitar de la Comisión Académica que le sean reconocidas actividades formativas de interés para su proyecto de tesis que no estén organizadas por el propio programa de doctorado.
+	</p>
+
 
 	@elseif ( $step == 3 )
 	<h3>Competencias a desarrollar</h3><br/>
 	Competencias indicadas en el apartado 2 memoria de verificación.
 	TABLA 1. Actividades formativas y competencias desarrolladas. Estudiantes a
-	iempo completo y estudiantes a tiempo parcial) (Documento: Tabla AAFF y Competencias
+	tiempo completo y estudiantes a tiempo parcial) (Documento: Tabla AAFF y Competencias
 
 	@elseif ( $step == 4 )
 	<h3>Lista de actividades formativas organizadas por el Programa de Doctorado</h3><br/>
-	Ver documento Anexo. ACTIVIDADES FORMATIVAS 2013-14 Y 2014-15
+	<br>
+	<div class="container">
+		<div class="col-sm-1">
+			<img src="{{ url('img/doc.png') }}"/>
+		</div>
+		<div class="col-sm-11 text-left">
+			<br>
+			<p>Ver documento Anexo: <a href="files/act14-15.docx">ACTIVIDADES FORMATIVAS 2013-14 Y 2014-15</a></p>
+		</div>
+	</div>
 
 	@else
 	<h3>Acciones de movilidad específicas para la actividad que se describe</h3><br/>
-	Dentro de este apartado hay que distinguir entre la movilidad de los/as estudiantes del programa y la movilidad del profesorado. Con respecto a la movilidad de los/as, estudiantes la Facultad de Psicología tiene firmados ya acuerdos de movilidad de estudiantes (incluyendo estudiantes de Doctorado con un conjunto de universidades norteamericanas (ver apartado xx y documentos anexos). En este mismo sentido, se firmarán acuerdos específicos de Movilidad para el nivel de Doctorado. con las universidades con las que ya existen acuerdos de movilidad de estudiantes para los niveles de Grado y Máster. En el caso del Doctorado ello no ha sido posible por no estar aprobado el Programa. En el caso del profesorado, es posible realizar esta movilidad en el marco de los acuerdos con las universidades norteamericanas mencionadas más arriba y en el del Programa de Movilidad del Profesorado (Erasmus). Ambos tipos de acuerdos permiten la participación en la Escuela de Verano de profesores/as procedentes de universidades europeas, norteamericanas y de otras regiones. Igualmente, hay que destacar la participación en el programa de Doctorado de profesores de universidades de otros países (ver apartado de Internacionalización).
+	<p>
+	Dentro de este apartado hay que distinguir entre la movilidad de los/as estudiantes del programa y la movilidad del profesorado. 
+	</p>
+	<p>
+	Con respecto a la movilidad de los/as, estudiantes la Facultad de Psicología tiene firmados ya acuerdos de movilidad de estudiantes (incluyendo estudiantes de Doctorado con un conjunto de universidades norteamericanas (ver apartado xx y documentos anexos). En este mismo sentido, se firmarán acuerdos específicos de Movilidad para el nivel de Doctorado. con las universidades con las que ya existen acuerdos de movilidad de estudiantes para los niveles de Grado y Máster. 
+	</p>
+	<p>
+	En el caso del Doctorado ello no ha sido posible por no estar aprobado el Programa. En el caso del profesorado, es posible realizar esta movilidad en el marco de los acuerdos con las universidades norteamericanas mencionadas más arriba y en el del Programa de Movilidad del Profesorado (Erasmus). Ambos tipos de acuerdos permiten la participación en la Escuela de Verano de profesores/as procedentes de universidades europeas, norteamericanas y de otras regiones. Igualmente, hay que destacar la participación en el programa de Doctorado de profesores de universidades de otros países (ver apartado de Internacionalización).
+	</p>
 
 	@endif
 </div> <!-- /.col -->
