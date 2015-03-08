@@ -296,7 +296,7 @@ Líneas de investigación
 				<b>LUIS GONZALO DE LA CASA RIVAS</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:delacasa@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l1/1.1.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
@@ -308,11 +308,11 @@ Líneas de investigación
 				<b>RAFAEL MORENO RODRÍGUEZ</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:moreno@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l1/1.2.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=1695">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -320,11 +320,11 @@ Líneas de investigación
 				<b>GABRIEL RUIZ ORTIZ</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:gruiz@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l1/1.3.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=419">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -332,11 +332,11 @@ Líneas de investigación
 				<b>JUAN CARLOS LÓPEZ GARCÍA</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:jclopez@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l1/1.4.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=826">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -344,11 +344,11 @@ Líneas de investigación
 				<b>MANUEL PORTAVELLA GARCÍA</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:portavel@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l1/1.5.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=827">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -356,11 +356,11 @@ Líneas de investigación
 				<b>ANDRÉS GARCÍA GARCÍA</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:andresgarcia@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l1/1.6.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=10040">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -368,11 +368,11 @@ Líneas de investigación
 				<b>EVA Mª TRIGO SÁNCHEZ</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:trigo@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l1/1.7.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=1697">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -380,11 +380,11 @@ Líneas de investigación
 				<b>JUAN PEDRO VARGAS ROMERO</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:vargas@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l1/1.8.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=6581">Enlace a SISIUS</a>
 				</p>
 			</li>
 		</ul>
@@ -403,11 +403,11 @@ Líneas de investigación
 				<b>CARLOS M. GÓMEZ GONZÁLEZ</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:cgomez@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l2/2.1.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=322">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -415,11 +415,11 @@ Líneas de investigación
 				<b>DAVID SALDAÑA SAGE</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:dsaldana@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l2/2.2.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=1674">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -427,11 +427,11 @@ Líneas de investigación
 				<b>FRANCISCO JAVIER MORENO PÉREZ</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:morpere@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l2/2.3.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=1672">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -439,11 +439,11 @@ Líneas de investigación
 				<b>ISABEL DE LOS REYES ORTIZ</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:reyes@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l2/2.4.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=1670">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -451,11 +451,11 @@ Líneas de investigación
 				<b>JOSÉ LEÓN CARRIÓN</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:leoncarrion@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l2/2.5.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=525">Enlace a SISIUS</a>
 				</p>
 			</li>
 		</ul>
@@ -474,11 +474,11 @@ Líneas de investigación
 				<b>CARMEN MORENO RODRÍGUEZ</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:mcmoreno@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l3/3.1.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=1745">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -486,11 +486,11 @@ Líneas de investigación
 				<b>ALFREDO OLIVA DELGADO</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:oliva@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l3/3.2.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=1746">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -498,11 +498,11 @@ Líneas de investigación
 				<b>JOAQUÍN MORA MERCHÁN</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:merchan@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l3/3.3.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=1725">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -510,11 +510,11 @@ Líneas de investigación
 				<b>ROSARIO DEL REY ALAMILLO</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:delrey@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l3/3.4.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=5353">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -522,11 +522,11 @@ Líneas de investigación
 				<b>VIRGINIA SÁNCHEZ JIMÉNEZ</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:virsan@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l3/3.5.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=3632">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -534,11 +534,11 @@ Líneas de investigación
 				<b>VICTORIA HIDALGO GARCÍA</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:victoria@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l3/3.6.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=1741">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -546,11 +546,11 @@ Líneas de investigación
 				<b>AGUEDA PARRA JIMÉNEZ</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:aparra@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l3/3.7.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=4583">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -558,11 +558,11 @@ Líneas de investigación
 				<b>INMACULADA SÁNCHEZ QUEJÍA</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:quejia@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l3/3.8.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="#">Enlace a SISIUS</a>
 				</p>
 			</li>
 		</ul>
@@ -582,11 +582,11 @@ Líneas de investigación
 				<b>Mª ÁNGELES PÉREZ SAN GREGORIO</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:anperez@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l4/4.1.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=6132">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -594,11 +594,11 @@ Líneas de investigación
 				<b>INMACULADA MORENO GARCÍA</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:imgarcia@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l4/4.2.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=6629">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -606,11 +606,11 @@ Líneas de investigación
 				<b>AGUSTÍN MARTÍN RODRÍGUEZ</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:amartin@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l4/4.3.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=6137">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -618,11 +618,11 @@ Líneas de investigación
 				<b>CARMEN DEL RÍO SÁNCHEZ</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:cdelrio@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l4/4.4.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=6020">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -630,11 +630,11 @@ Líneas de investigación
 				<b>RAFAEL J. MARTÍNEZ CERVANTES</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:mcervan@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l4/4.5.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=1693">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -642,11 +642,11 @@ Líneas de investigación
 				<b>EVA MARÍA PADILLA MUÑOZ</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:evapadi@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l4/4.6.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=6134">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -654,11 +654,11 @@ Líneas de investigación
 				<b>MANUEL VÁZQUEZ MARRUFO</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:marrufo@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l4/4.7.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=6515">Enlace a SISIUS</a>
 				</p>
 			</li>
 		</ul>
@@ -677,11 +677,11 @@ Líneas de investigación
 				<b>MANUEL GARCÍA RAMÍREZ</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:magarcia@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l5/5.1.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=1228">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -689,11 +689,11 @@ Líneas de investigación
 				<b>MANUEL L DE LA MATA BENÍTEZ</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:mluis@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l5/5.2.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=1820">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -701,11 +701,11 @@ Líneas de investigación
 				<b>ANA Mª LÓPEZ JIMÉNEZ</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:analopez@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l5/5.3.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=2108">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -713,11 +713,11 @@ Líneas de investigación
 				<b>MERCEDES CUBERO PÉREZ</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:cubero@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l5/5.4.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=1817">Enlace a SISIUS</a>
 				</p>
 			</li>
 			<li>
@@ -725,11 +725,11 @@ Líneas de investigación
 				<b>ANDRÉS SANTAMARÍA SANTIGOSA</b>
 				</p>
 				<p>
-					<a href="mailto: delacasa@us.es">Email de contacto</a>
+					<a href="mailto:asantamaria@us.es">Email de contacto</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l5/5.5.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=417">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=1825">Enlace a SISIUS</a>
 				</p>
 			</li>
 		</ul>
