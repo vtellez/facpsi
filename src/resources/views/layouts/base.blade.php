@@ -146,6 +146,7 @@
                   </a>
                 </li> 
 
+              @if (false)
                 @if ( $section == 'matricula' )
                 <li class="dropdown active">
                   @else
@@ -155,7 +156,8 @@
                       <i class="fa fa-laptop"></i>
                       Matrícula
                     </a>
-                  </li> 
+                  </li>
+              @endif
 
                   @if ( $section == 'formacion' )
                   <li class="dropdown active">

@@ -23,40 +23,58 @@ Recursos Materiales
 					<li>
 						<i class="icon-li fa fa-angle-right"></i>
 						<a href="{{ url($section.'?s=1') }}">Información específica para el área de conocimiento de los recursos disponibles del programa</a>
-						</li>
-						<li>
-							<i class="icon-li fa fa-angle-right"></i>
-							<a href="{{ url($section.'?s=2') }}">Información sobre doctorandos que han conseguido becas, ayudas, contratos, postdoctorales,... en años anteriores</a>
-						</li>
-						<li>
-							<i class="icon-li fa fa-angle-right"></i>
-							<a href="{{ url($section.'?s=3') }}">Información o dirección web sobre convenios que regulen la participación de otras entidades en el desarrollo de las actividades investigadoras</a>
-						</li>
-					</ul>
-				</div> <!-- /.portlet-content -->
-			</div> <!-- /.portlet -->
+					</li>
+					<li>
+						<i class="icon-li fa fa-angle-right"></i>
+						<a href="{{ url($section.'?s=2') }}">Doctorandos que han conseguido becas, ayudas, contratos, postdoctorales en años anteriores</a>
+					</li>
+					<li>
+						<i class="icon-li fa fa-angle-right"></i>
+						<a href="{{ url($section.'?s=3') }}">Información sobre convenios que regulen la participación de otras entidades en el desarrollo de las actividades investigadoras</a>
+					</li>
+				</ul>
+			</div> <!-- /.portlet-content -->
+		</div> <!-- /.portlet -->
 
-		</div> <!-- /.col -->
-		<div class="col-md-9 col-sm-8">
+	</div> <!-- /.col -->
+	<div class="col-md-9 col-sm-8">
 
 		@if ( $step == 1 )
-Enlace a las convocatorias generales del Servicio de Doctorado.
-http://www.doctorado.us.es/matricula/becas-y-ayudas
-Enlace a las convocatorias del Relaciones Internacionales:
-http://www.internacional.us.es/becas-ayudas
+		<h3>Información específica para el área de conocimiento de los recursos disponibles del programa</h3><br/>
+		<ul>
+			<li>Convocatorias generales del Servicio de Doctorado: <br><a href="http://www.doctorado.us.es/matricula/becas-y-ayudas">http://www.doctorado.us.es/matricula/becas-y-ayudas</a></li>
+			<br>
+			<li>Convocatorias del Relaciones Internacionales: <br><a href="http://www.internacional.us.es/becas-ayudas">http://www.internacional.us.es/becas-ayudas</a></li>
+		</ul>
+			
+			
 
 		@elseif ( $step == 2 )
-	En este momento hay matriculados en el Programa de Doctorado en Psicología un total de 53 estudiantes (26 de Primer año y 27 de Segundo). Los datos de becas, ayudas y contratos de dichos/as estudiantes son:
-- 12 estudiantes disfrutan de contratos de investigación de 4 años de duración (FPI, FPU y PIF). Su distribución por líneas de investigación es: 1 asignado/a a la línea 1, 2, a la Línea 2, 5 a la Línea 3 y 4 a la Línea 5.
-- 4 estudiantes disfrutan de becas de investigación asociadas a proyectos (2 asignados/as a la Línea 2 y 2 a la Línea 3).
-- 21 estudiantes (10 de primer año y 11 de segundo) tienen contratos de trabajo o realizan actividades profesionales fuera de la US.
+		<h3>Doctorandos que han conseguido becas, ayudas, contratos, postdoctorales en años anteriores</h3><br/>
+		<p>
+		En este momento hay matriculados en el Programa de Doctorado en Psicología un total de 53 estudiantes (26 de Primer año y 27 de Segundo). Los datos de becas, ayudas y contratos de dichos/as estudiantes son:
+		</p>
+		<ul>
+			<li>
+			12 estudiantes disfrutan de contratos de investigación de 4 años de duración (FPI, FPU y PIF). Su distribución por líneas de investigación es: 1 asignado/a a la línea 1, 2, a la Línea 2, 5 a la Línea 3 y 4 a la Línea 5.
+			</li>
+			<li>
+			4 estudiantes disfrutan de becas de investigación asociadas a proyectos (2 asignados/as a la Línea 2 y 2 a la Línea 3).
+			</li>
+			<li>
+			21 estudiantes (10 de primer año y 11 de segundo) tienen contratos de trabajo o realizan actividades profesionales fuera de la US.
+			</li>
+		</ul>
 
 		@else
-http://www.doctorado.us.es/tesis-doctoral/cotutela-de-tesis
+		<h3>Información sobre convenios que regulen la participación de otras entidades en el desarrollo de las actividades investigadoras</h3><br/>
+		<p>
+		Cotutela de tesis: <a href="http://www.doctorado.us.es/tesis-doctoral/cotutela-de-tesis">http://www.doctorado.us.es/tesis-doctoral/cotutela-de-tesis</a>
+		</p>
 		
 		@endif
-		</div> <!-- /.col -->
+	</div> <!-- /.col -->
 
 
-	</div> <!-- /.row -->
-	@stop
+</div> <!-- /.row -->
+@stop
