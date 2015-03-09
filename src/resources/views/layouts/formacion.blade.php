@@ -177,7 +177,7 @@ Actividades formativas
 			</p>
 
 			<p>
-			<br><h4>5) Estancias en centros de investigación</h4>
+				<br><h4>5) Estancias en centros de investigación</h4>
 			</p>
 			<p>
 				Los estudiantes del programa de Doctorado deberán realizar estancias en centros de investigación nacionales y/o internacionales durante el tiempo de sus estudios de doctorado. Dentro de estas estancias se consideran las siguientes opciones:
@@ -214,31 +214,31 @@ Actividades formativas
 		<h4>Estrategia general del programa formativo</h4>
 	</p>
 	<p>
-	Cada línea de investigación deberá programar un mínimo de tres actividades del tipo seminarios o conferencias por curso.
+		Cada línea de investigación deberá programar un mínimo de tres actividades del tipo seminarios o conferencias por curso.
 	</p>
 	<p>
-	La temporalización recomendada de las actividades formativas será:
-	<ol type="i">
-		<li>
-			Primer curso: 50 horas
-		</li>
-		<li>
-			Segundo curso: 30horas
-		</li>
-		<li>
-			Tercer curso: 20 horas.
-		</li>
-	</ol>
+		La temporalización recomendada de las actividades formativas será:
+		<ol type="i">
+			<li>
+				Primer curso: 50 horas
+			</li>
+			<li>
+				Segundo curso: 30horas
+			</li>
+			<li>
+				Tercer curso: 20 horas.
+			</li>
+		</ol>
 	</p>
 	<br>
 	<p>
 		<h4>Pauta de trabajo para el/la estudiante a lo largo del programa formativo</h4>
 	</p>
 	<p>
-	Los/as estudiantes de tercer curso actuarán como tutores metodológicos de los estudiantes de primer y segundo curso, orientándolos en tareas metodológicas y formativas dentro de cada línea de investigación. A lo largo de su segundo o tercer año deberán haber organizado algunos de los seminarios metodológicos en el punto anterior, centrado en la metodología en la que desarrollen su tesis doctoral.
+		Los/as estudiantes de tercer curso actuarán como tutores metodológicos de los estudiantes de primer y segundo curso, orientándolos en tareas metodológicas y formativas dentro de cada línea de investigación. A lo largo de su segundo o tercer año deberán haber organizado algunos de los seminarios metodológicos en el punto anterior, centrado en la metodología en la que desarrollen su tesis doctoral.
 	</p>
 	<p>
-	Todos los estudiantes deberán seguir un programa de presentación de los avances de su investigación en reuniones semestrales (dos por curso, una al semestre) en la que expondrán mediante un formato de seminario y/o de caso los avances realizados en el último periodo semestrales en: 
+		Todos los estudiantes deberán seguir un programa de presentación de los avances de su investigación en reuniones semestrales (dos por curso, una al semestre) en la que expondrán mediante un formato de seminario y/o de caso los avances realizados en el último periodo semestrales en: 
 	</p>
 	<ol type="a">
 		<li>Depuración de la metodología</li>
@@ -246,18 +246,346 @@ Actividades formativas
 		<li>Discusión teórica y tareas conceptuales.</li>
 	</ol>
 	<p>
-	Estas sesiones serán coordinadas por los responsables de línea y en ellas estarán presentes los estudiantes adscritos a la línea y los directores y codirectores.
+		Estas sesiones serán coordinadas por los responsables de línea y en ellas estarán presentes los estudiantes adscritos a la línea y los directores y codirectores.
 	</p>
 	<p>
-	Los estudiantes podrán solicitar de la Comisión Académica que le sean reconocidas actividades formativas de interés para su proyecto de tesis que no estén organizadas por el propio programa de doctorado.
+		Los estudiantes podrán solicitar de la Comisión Académica que le sean reconocidas actividades formativas de interés para su proyecto de tesis que no estén organizadas por el propio programa de doctorado.
 	</p>
 
 
 	@elseif ( $step == 3 )
 	<h3>Competencias a desarrollar</h3><br/>
-	Competencias indicadas en el apartado 2 memoria de verificación.
-	TABLA 1. Actividades formativas y competencias desarrolladas. Estudiantes a
-	tiempo completo y estudiantes a tiempo parcial) (Documento: Tabla AAFF y Competencias
+
+	<p class="lead" style="text-align:center">TABLA 1. Actividades formativas y competencias desarrolladas</p>
+	<br>
+	<h4>Estudiantes a tiempo completo (ETC)</h4>
+	<table class="table table-bordered">
+		<thead>
+			<th>Semestre</th>
+			<th>Competencias y Destrezas</th>
+			<th>Actividad Formativa</th>
+			<th>Evaluación</th>
+			<th>Documento actividades Doctorando</th>
+		</thead>
+		<tr>
+			<td>1º</td>
+			<td>
+				CB11. Comprensión sistemática de un campo de estudio.<br>
+				CB14 Capacidad de análisis crítico <br>
+				CB15 Capacidad de comunicación.<br>
+				CA01. Manejo en contextos con poca información.<br>
+				CA02. Resolver problemas complejos.<br>
+				CE11. Conocer y aplicar instrumentos de evaluación (en su caso)<br>
+
+			</td>
+			<td>
+				1. Seminarios.<br>
+				2. Conferencias.<br>
+				3Cursos instrumentales y transversales: Documentación en psicología.<br>
+
+			</td>
+			<td>
+				- Entrega del PI<br>
+			</td>
+			<td>
+				Documento 1 PI .<br><br>
+				Otros indicadores (registro de asistencia a los seminarios, conferencias y cursos, con indicación de horas)<br>
+
+			</td>
+		</tr>
+		<tr>
+			<td>2º</td>
+			<td>
+				CB12. Capacidad de investigación en psicología.<br>
+				CB15 Capacidad de comunicación. <br>
+				CA03. Diseñar proyectos innovadores<br>
+				CA04. Trabajar en equipo.<br>
+				CE12. Conocer programas de intervención (en su caso)<br>
+
+			</td>
+			<td>
+				3. Cursos instrumentales y transversales. Comunicación y Producción Científica. <br>
+				4. Escuela de Verano.<br>
+
+			</td>
+			<td>
+				Presentación oral de la revisión bibliográfica critica
+			</td>
+			<td>
+				Otros indicadores (registro de asistencia a los seminarios, conferencias y cursos)<br>
+				Certificado de presentación en la Escuela de Verano. <br>
+
+			</td>
+		</tr>
+		<tr>
+			<td>3º</td>
+			<td>
+				CB13.Capacidad para ampliar conocimiento.<br>
+				CB17. Conocimiento y aplicación principios deontológicos.<br>
+				CE13. Aplicar estrategias de intervención (en su caso)<br>
+
+			</td>
+			<td>
+				1. Seminarios.<br>
+				2. Conferencias.<br>
+				3. Cursos instrumentales y transversales. Procedimientos y Dilemas en una Investigación Ética.<br> 
+				6. Estancia en otros centros de investigación (dependiendo de financiación)<br>
+
+			</td>
+			<td>
+				- Entrega del diseño de la tesis (selección de la muestra, previsión de recogida y análisis de datos, resultados previstos…).
+			</td>
+			<td>
+				Documento 2 DAD (Diseño de la investigación) <br>
+				Otros indicadores (registro de asistencia a los seminarios, conferencias y cursos )<br>
+				Documentos de consentimiento informado (personas), autorización de comités éticos, compromiso devolución de resultados...<br>
+				Documento de garantía de originalidad del trabajo.<br>
+				Certificado de estancia en centros de investigación.<br>
+				Memoria de estancia en centros de investigación.<br>
+			</td>
+		</tr>
+		<tr>
+			<td>4º</td>
+			<td>
+				CB14 Capacidad de análisis crítico <br>
+				CB15 Capacidad de comunicación. <br>
+				CA05. Integrar conocimientos complejos<br>
+				CE14. Saber implementar evaluación de programas (en su caso)<br>
+
+			</td>
+			<td>
+				1. Seminarios.<br>
+				2. Conferencias.<br>
+				4. Escuela de Verano.<br>
+				5. Congresos  nacionales o internacionales del campo  de investigación<br>
+				6. Estancia en otros centros de investigación (dependiendo de financiación).<br>
+
+			</td>
+			<td>
+				Presentación oral del trabajo realizado (recogida y análisis de datos, análisis exploratorios…)
+			</td>
+			<td>
+				Otros indicadores (registro de asistencia a los seminarios, conferencias y cursos Certificado de presentación en la Escuela de Verano.<br>
+				Certificado de asistencia y presentación en el congreso.<br>
+				Certificado de estancia en centros de investigación.<br>
+				Memoria de estancia en centros de investigación.<br>
+
+			</td>
+		</tr>
+		<tr>
+			<td>5º</td>
+			<td>
+				CB16. Capacidad de fomentar el avance científico.<br>
+				CA06. Crítica y defensa intelectual de soluciones.<br>
+				CE15. Contribuir difusión prácticas profesionales adecuadas (en su caso).<br>
+
+			</td>
+			<td>
+				1.  Seminarios.<br>
+				2. Conferencias<br>
+
+			</td>
+			<td>
+				Informe de avances de tesis doctoral
+			</td>
+			<td>
+				Otros indicadores (registro de asistencia a los seminarios, conferencias y cursos Carta del -director de tesis.<br>
+				Documento 3 portfolio (informe de avances de la tesis).<br>
+
+			</td>
+		</tr>
+		<tr>
+			<td>6º</td>
+			<td>
+				CB14 Capacidad de análisis crítico <br>
+				CB15 Capacidad de comunicación. <br>
+				CB16. Capacidad de fomentar el avance científico.<br>
+				CA06. Crítica y defensa intelectual de soluciones.<br>
+				CE16. Evaluar la aplicación de resultados de investigación (en su caso).<br>
+
+			</td>
+			<td>
+				4. Escuela de Verano
+			</td>
+			<td>
+				Presentación oral del trabajo  (avance defensa de la tesis)<br>
+				Defensa tesis doctoral<br>
+			</td>
+			<td>
+				Certificado de presentación en la Escuela de Verano.<br>
+				Certificado defensa tesis Doctoral.<br>
+			</td>
+		</tr>
+	</table>
+
+	<br>
+	<h4>Estudiantes a tiempo parcial (ETP)</h4>
+	<table class="table table-bordered">
+		<thead>
+			<th>Semestre</th>
+			<th>Competencias y Destrezas</th>
+			<th>Actividad Formativa</th>
+			<th>Evaluación</th>
+			<th>Documento actividades Doctorando</th>
+		</thead>
+		<tr>
+			<td>1º</td>
+			<td>
+				CB11. Comprensión sistemática de un campo de estudio.<br>
+				CB14 Capacidad de análisis crítico <br>
+				CB15 Capacidad de comunicación.<br>
+				CA01. Manejo en contextos con poca información.<br>
+				CA02. Resolver problemas complejos.<br>
+				CE11. Conocer y aplicar instrumentos de evaluación (en su caso)<br>
+
+			</td>
+			<td>
+				1. Seminarios.<br>
+				2. Conferencias.<br>
+				3. Cursos instrumentales y trans- versales: Documentación en psicología.<br>
+
+			</td>
+			<td>
+				- Entrega del proyecto de tesis con revisión bibliográfica crítica (Comisión Académica).
+			</td>
+			<td>
+				Documento 1 PI .<br><br>
+
+				Otros indicadores (registro de asistencia a los seminarios, conferencias y cursos, con indicación de horas)
+
+			</td>
+		</tr>
+		<tr>
+			<td>2º</td>
+			<td>
+				CB12. Capacidad de investigación en psicología.<br>
+				CB15 Capacidad de comunicación. <br>
+				CA03. Diseñar proyectos innovadores<br>
+				CA04. Trabajar en equipo.<br>
+				CE12. Conocer programas de intervención (en su caso)<br>
+
+			</td>
+			<td>
+				3. Cursos instrumentales y transversales. Comunicación y Producción Científica. <br>
+				4. Escuela de Verano.<br>
+
+			</td>
+			<td>
+				Presentación oral de la revisión bibliográfica critica
+			</td>
+			<td>
+				Otros indicadores (registro de asistencia a los seminarios, conferencias y cursos)<br>
+				Certificado de presentación en la Escuela de Verano. <br>
+
+			</td>
+		</tr>
+		<tr>
+			<td>3º y 4º</td>
+			<td>
+				CB13.Capacidad para ampliar conocimiento.<br>
+				CB17. Conocimiento y aplicación principios deontológicos.<br>
+				CE13. Aplicar estrategias de intervención (en su caso)<br>
+
+			</td>
+			<td>
+				1. Seminarios.<br>
+				2. Conferencias.<br>
+				3. Cursos instrumentales y transversales. Procedimientos y Dilemas en una Investigación Ética. <br>
+				6. Estancia en otros centros de investigación (dependiendo de financiación)<br>
+
+			</td>
+			<td>
+				- Entrega del diseño de la tesis (selección de la muestra, previsión de recogida y análisis de datos, resultados previstos…).
+			</td>
+			<td>
+				Documento PI 
+				Otros indicadores (registro de asistencia a los seminarios, conferencias y cursos )<br>
+				Documentos de consentimiento informado (personas), autorización de comités éticos, compromiso devolución de resultados...<br>
+				Documento de garantía de originalidad del trabajo.<br>
+				Certificado de estancia en centros de investigación<br>
+				Memoria de estancia en centros de investigación.<br>
+
+			</td>
+		</tr>
+		<tr>
+			<td>5º y 6º</td>
+			<td>
+				CB14 Capacidad de análisis crítico <br>
+				CB15 Capacidad de comunicación. <br>
+				CA05. Integrar conocimientos complejos<br>
+				CE14. Saber implementar evaluación de programas (en su caso)<br>
+
+			</td>
+			<td>
+				1. Seminarios.<br>
+				2. Conferencias.<br>
+				4. Escuela de Verano.<br>
+				5. Congresos  nacionales o internacionales del campo  de investigación<br>
+				6. Estancia en otros centros de investigación (dependiendo de financiación).<br>
+
+			</td>
+			<td>
+				Presentación oral del trabajo realizado (recogida y análisis de datos, análisis exploratorios…)
+			</td>
+			<td>
+				Otros indicadores (registro de asistencia a los seminarios, conferencias y cursos Certificado de presentación en la Escuela de Verano.<br>
+				Certificado de asistencia y presentación en el congreso.<br>
+				Certificado de estancia en centros de investigación.<br>
+				Memoria de estancia en centros de investigación.<br>
+			</td>
+		</tr>
+		<tr>
+			<td>7º y 8º</td>
+			<td>
+				CB16. Capacidad de fomentar el avance científico.<br>
+				CA06. Crítica y defensa intelectual de soluciones.<br>
+				CE15. Contribuir difusión prácticas profesionales adecuadas (en su caso).<br>
+
+			</td>
+			<td>
+				1.  Seminarios.<br>
+				2. Conferencias<br>
+				5. Congresos  nacionales o internacionales del campo  de investigación<br>
+				6. Estancia en otros centros de investigación (dependiendo de financiación)<br>
+
+			</td>
+			<td>
+				Informe de avances de tesis doctoral
+			</td>
+			<td>
+				Otros indicadores (registro de asistencia a los seminarios, conferencias y cursos Carta del -director de tesis.<br>
+				DAD (informe de avances de la tesis).<br>
+				Certificado de asistencia y presentación en el congreso.<br>
+				Certificado de estancia en centros de investigación.<br>
+				Memoria de estancia en centros de investigación.<br>
+
+			</td>
+		</tr>
+		<tr>
+			<td>9º y 10º</td>
+			<td>
+				CB14 Capacidad de análisis crítico <br>
+				CB15 Capacidad de comunicación. <br>
+				CB16. Capacidad de fomentar el avance científico.<br>
+				CA06. Crítica y defensa intelectual de soluciones.<br>
+				CE16. Evaluar la aplicación de resultados de investigación (en su caso).<br>
+
+			</td>
+			<td>
+				4. Escuela de Verano
+			</td>
+			<td>
+				Presentación oral del trabajo  (avance defensa de la tesis)<br>
+				Defensa tesis doctoral<br>
+			</td>
+			<td>
+				Certificado de presentación en la Escuela de Verano.<br>
+				Certificado defensa tesis Doctoral.<br>
+			</td>
+		</tr>
+	</table>
+
+
 
 	@elseif ( $step == 4 )
 	<h3>Lista de actividades formativas organizadas por el Programa de Doctorado</h3><br/>
@@ -275,13 +603,13 @@ Actividades formativas
 	@else
 	<h3>Acciones de movilidad específicas para la actividad que se describe</h3><br/>
 	<p>
-	Dentro de este apartado hay que distinguir entre la movilidad de los/as estudiantes del programa y la movilidad del profesorado. 
+		Dentro de este apartado hay que distinguir entre la movilidad de los/as estudiantes del programa y la movilidad del profesorado. 
 	</p>
 	<p>
-	Con respecto a la movilidad de los/as, estudiantes la Facultad de Psicología tiene firmados ya acuerdos de movilidad de estudiantes (incluyendo estudiantes de Doctorado con un conjunto de universidades norteamericanas (ver apartado xx y documentos anexos). En este mismo sentido, se firmarán acuerdos específicos de Movilidad para el nivel de Doctorado. con las universidades con las que ya existen acuerdos de movilidad de estudiantes para los niveles de Grado y Máster. 
+		Con respecto a la movilidad de los/as, estudiantes la Facultad de Psicología tiene firmados ya acuerdos de movilidad de estudiantes (incluyendo estudiantes de Doctorado con un conjunto de universidades norteamericanas (ver apartado xx y documentos anexos). En este mismo sentido, se firmarán acuerdos específicos de Movilidad para el nivel de Doctorado. con las universidades con las que ya existen acuerdos de movilidad de estudiantes para los niveles de Grado y Máster. 
 	</p>
 	<p>
-	En el caso del Doctorado ello no ha sido posible por no estar aprobado el Programa. En el caso del profesorado, es posible realizar esta movilidad en el marco de los acuerdos con las universidades norteamericanas mencionadas más arriba y en el del Programa de Movilidad del Profesorado (Erasmus). Ambos tipos de acuerdos permiten la participación en la Escuela de Verano de profesores/as procedentes de universidades europeas, norteamericanas y de otras regiones. Igualmente, hay que destacar la participación en el programa de Doctorado de profesores de universidades de otros países (ver apartado de Internacionalización).
+		En el caso del Doctorado ello no ha sido posible por no estar aprobado el Programa. En el caso del profesorado, es posible realizar esta movilidad en el marco de los acuerdos con las universidades norteamericanas mencionadas más arriba y en el del Programa de Movilidad del Profesorado (Erasmus). Ambos tipos de acuerdos permiten la participación en la Escuela de Verano de profesores/as procedentes de universidades europeas, norteamericanas y de otras regiones. Igualmente, hay que destacar la participación en el programa de Doctorado de profesores de universidades de otros países (ver apartado de Internacionalización).
 	</p>
 
 	@endif

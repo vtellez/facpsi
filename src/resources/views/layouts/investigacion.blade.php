@@ -867,7 +867,7 @@ Líneas de investigación
 					&nbsp;&nbsp;|&nbsp;&nbsp;
 					<a href="{{ url('files/cv/l3/3.8.docx') }}">Documento CV</a>
 					&nbsp;&nbsp;|&nbsp;&nbsp;
-					<a href="#">Enlace a SISIUS</a>
+					<a href="https://investigacion.us.es/sisius/sis_showpub.php?idpers=5188">Enlace a SISIUS</a>
 				</p>
 			</li>
 		</ul>
