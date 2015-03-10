@@ -95,15 +95,19 @@ Tesis doctoral
 		<a href="www.doctorado.us.es/impresos/formularios/M05_compromiso_documental_y_supervision_RD_99.pdf">www.doctorado.us.es/impresos/formularios/M05_compromiso_documental_y_supervision_RD_99.pdf</a>
 		</p>
 
-		@else
+		@elseif ( $step == 3 )
+
+
 		<h3>Tesis doctoral</h3><br/>
 		<p>
 		Información sobre el desarrollo y presentación de la tesis doctoral.
 		Indicar si se exigen requisitos específicos (indicios de calidad) para la aprobación de la lectura de la tesis.
 		</p>
 		<p>
-		Normativa para la presentación y lectura de tesis doctorales. Enlace doctorado:<br>
-		<a href="http://www.doctorado.us.es/tesis-doctoral">http://www.doctorado.us.es/tesis-doctoral</a>
+		Normativa para la presentación y lectura de tesis doctorales:<br>
+			<p><a href="http://www.doctorado.us.es/tesis-doctoral">http://www.doctorado.us.es/tesis-doctoral</a></p>
+			<p><a href="http://bous.us.es/2011/numero-4/pdf/archivo-12.pdf/view">http://bous.us.es/2011/numero-4/pdf/archivo-12.pdf/view</a></p>
+			<p><a href="http://bous.us.es/2012/numero-3/pdf/archivo-10.pdf">http://bous.us.es/2012/numero-3/pdf/archivo-10.pdf</a></p>
 		</p>
 		
 		@endif
