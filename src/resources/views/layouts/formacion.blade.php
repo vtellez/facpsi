@@ -71,7 +71,10 @@ Actividades formativas
 			Los seminarios requerirán la presencia y la participación de los/as estudiantes, así como la realización, en su caso, de las actividades de aprendizaje.
 		</p>
 		<p>
-			Quedará constancia de ello en el Documento de actividades del Doctorando (DAD) (con indicación de las horas de trabajo realizadas).
+			<u>Procedimiento de control</u>. El control de estas actividades se realizará mediante la recogida de las firmas de los/as estudiantes que asistan a ellas.
+		</p>
+		<p>
+			Quedará constancia de ello en el Documento de Actividades del Doctorando (DAD) (con indicación de las horas de duración de la actividad).
 		</p>
 
 		<p>
@@ -109,7 +112,13 @@ Actividades formativas
 		<p>
 			Las conferencias requerirán la presencia y la participación de los/as estudiantes, así como, en su caso, la realización de las actividades de aprendizaje. Quedará constancia de ello en el DAD (con indicación de las horas de trabajo realizadas).
 		</p>
-		
+		<p>
+			<u>Procedimiento de control</u>. El control de estas actividades se realizará mediante la recogida de las firmas de los/as estudiantes que asistan a ellas.
+		</p>
+		<p>
+			Quedará constancia de ello en el Documento de Actividades del Doctorando (DAD) (con indicación de las horas de duración de la actividad).
+		</p>
+
 
 
 		<p>
@@ -159,6 +168,17 @@ Actividades formativas
 				</li>
 			</ol>
 
+			<p>
+				Los cursos instrumentales y/o transversales conferencias requerirán la presencia y la participación de los/as estudiantes, así como, en su caso, la realización de las actividades de aprendizaje.
+			</p>
+			<p>
+				<u>Procedimiento de control</u>. El control de estas actividades se realizará mediante la recogida de las firmas de los/as estudiantes que asistan a ellas.
+			</p>
+			<p>
+				Quedará constancia de ello en el Documento de Actividades del Doctorando (DAD) (con indicación de las horas de duración de la actividad).
+			</p>
+
+
 
 			<p>
 				<br><h4>4) Escuela de Verano</h4>
@@ -173,8 +193,15 @@ Actividades formativas
 				Objetivos: 1. Mejorar hasta un nivel de excelencia la capacidad de comunicación científica. 2. Fomentar la capacidad de argumentación y debate de los doctorandos.
 			</p>
 			<p>
-				Todos/s los/as estudiantes de doctorado deberán participar en la Escuela de Verano, asistiendo a las sesiones y presentando el estado de su trabajo de investigación. Estos datos se incorporarán al Documento de actividades del doctorando.
+				Todos/s los/as estudiantes de doctorado deberán participar en la Escuela de Verano, asistiendo a las sesiones y presentando el estado de su trabajo de investigación.
 			</p>
+			<p>
+				<u>Procedimiento de control</u>. La realización de esta actividad implicará, en primer lugar, la asistencia a dos sesiones temáticas (que se controlará mediante la recogida de las firmas de los/as asistentes) y, por otra, la presentación de los avances de la tesis doctoral de cada estudiante, que se realizará en la sesión correspondiente.
+			</p>
+			<p>
+				Quedará constancia de todo ello en el Documento de Actividades del Doctorando (DAD) (con indicación de las horas de duración de la actividad).
+			</p>
+
 
 			<p>
 				<br><h4>5) Estancias en centros de investigación</h4>
@@ -198,11 +225,34 @@ Actividades formativas
 				En todos los casos, y dependiendo de las condiciones de los estudiantes y de la financiación disponible, se recomienda la opción A, en primer lugar, a continuación la B y, por último, la C. En el caso de los estudiantes a tiempo completo, será obligatoria la opción A. En el caso de estudiantes a tiempo parcial, será obligatoria, al menos, la opción C.
 			</p>
 			<p>
-				El control de esta actividad se realizará mediante la presentación por parte del/a doctorando/a del certificado de asistencia y presentación de comunicación en el congreso. Este certificado se incorporará al DAD.
+				El control de esta actividad se realizará mediante la presentación de dos documentos:
+			</p>
+				<ul>
+					<li>
+					Un certificado de haber realizado la estancia, con indicación de la duración , expedido por el responsable del centro de investigación  o por el/la investigador/a que haya invitado al/ estudiante.
+					</li>
+					<li>
+						Un abreve memoria de las actividades realizadas, elaborada por el/la estudiante de asistencia y presentación de comunicación en el congreso. 
+					</li>
+				</ul>
+			<p>
+				Ambos documentos se incorporarán al DAD.
+			</p>
+
+			<p>
+				<br><h4>6)	Otras actividades formativas</h4>
 			</p>
 			<p>
-				Todas las actividades formativas descritas podrán realizarse en castellano y en inglés
+				En este apartado se incluye la asistencia y participación en al menos un congreso nacional o internacional, presentando una comunicación. Se recomienda que esta actividad sea realizada en el 4º semestre (en el caso de estudiantes a tiempo completo) o en el 7º u 8º (en el caso de estudiantes a tiempo parcial).
 			</p>
+			<p>
+				El control de esta actividad se realizará mediante la presentación por parte del/a doctorando/a del certificado de asistencia y presentación de comunicación en el congreso. Este certificado se incorporará al Documento de Actividades del/a Doctorando/a (DAD). 
+			</p>
+
+			<p>
+				Todas las actividades formativas descritas podrán realizarse en castellano y en inglés
+			</p>
+
 		</li>
 	</ol>
 
