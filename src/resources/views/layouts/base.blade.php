@@ -49,6 +49,7 @@
 
         <ul class="nav navbar-nav navbar-right">   
 
+         @if (false) 
           <li class="dropdown navbar-profile">
             <a class="dropdown-toggle" data-toggle="dropdown" style="cursor:pointer;">
               Idioma
@@ -74,6 +75,7 @@
             </ul>
 
           </li>  
+          @endif
 
           <li class="dropdown navbar-profile">
             <a href="{{ url('') }}">
